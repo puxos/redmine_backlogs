@@ -9,7 +9,7 @@ zh:
   backlogs_card_specification: 卡片类型
   backlogs_default_story_tracker: "Default story tracker"
   backlogs_general_settings: 通用配置
-  backlogs_impediment: Impediment
+  backlogs_impediment: 障碍事项
   backlogs_include_sat_and_sun: 燃尽图包含周六和周日
   backlogs_new_story_position: 新故事位置
   backlogs_new_story_position_bottom: "新故事底部 (需要重启)"
@@ -26,15 +26,15 @@ zh:
   backlogs_sharing_enabled: 启用共享
   backlogs_sharing_new_sprint: 共享新冲刺
   backlogs_sharing_new_sprint_explanation: "Although all possible options are available here, new sprints are shared only according to the users and projects permissions. System shared sprints can only be created by admins, hierarchy and tree shared sprints need permissions on the topmost project."
-  backlogs_sharing_support: "Backlogs sharing"
+  backlogs_sharing_support: "共享 Backlogs"
   backlogs_show_in_scrum_stats: "Show project in Scrum statistics"
   backlogs_show_priority: "Show task priority on taskboard"
   backlogs_show_redmine_std_header: "Show redmine header in backlogs"
   backlogs_show_stories_from_subprojects_in_backlog: "Show stories from subprojects in backlog"
   backlogs_sprint_card_settings: "Card printing"
   backlogs_sprint_sort_order: "Sort Sprints by start date"
-  backlogs_sprint_sort_order_asc: ascending
-  backlogs_sprint_sort_order_desc: descending
+  backlogs_sprint_sort_order_asc: 顺序
+  backlogs_sprint_sort_order_desc: 倒序
   backlogs_sprints: 冲刺
   backlogs_statistics_active: "Project show activity"
   backlogs_statistics_active_failed: "Project shows no activity"
@@ -87,54 +87,54 @@ zh:
   error_sprint_end_before_start: "Sprint cannot end before it starts"
   error_taken: "is already in use"
   event_sprint_summary: "%{project}: %{summary}"
-  field_assigned_to: "Assigned To"
+  field_assigned_to: "分配给"
   field_backlogs_issue_type: Backlog类型
   field_base: ""
   field_blocks: "[[Blocks]]"
   field_name: "[[Name]]"
   field_planned_velocity: "Planned velocity"
   field_position: 位置
-  field_priority: Priority
-  field_project_id: "Project Id"
-  field_release: Release
-  field_release_end_date: "Release end date"
+  field_priority: 优先级
+  field_project_id: "项目Id"
+  field_release: 发布
+  field_release_end_date: "发布结束日期"
   field_release_relationship: "Release relationship"
-  field_release_start_date: "Release start date"
-  field_remaining_hours: "Remaining (hours)"
+  field_release_start_date: "发布开始日期"
+  field_remaining_hours: "余下时间（小时）"
   field_story_points: 故事点数
   field_subject: "[[Subject]]"
-  field_task_color: "Task color"
+  field_task_color: "任务颜色"
   field_time_entry_comments: "Time Entry Comments"
   field_time_entry_hours: "Time Entry Hours"
   field_time_entry_spend_on: "Time Entry Spend on"
   field_time_entry_user_id: "Time Entry User Id"
   field_tracker_id: "[[Tracker ID]]"
   field_velocity_based_estimate: 速度计量单位
-  label_all_tasks: "All tasks"
+  label_all_tasks: "全部任务"
   label_back_to_project: 返回项目页
   label_backlogs: Backlogs
   label_backlogs_unconfigured: "您尚未设置Bcaklogs，请到{{administration}} > {{plugins}},然后点击这个插件的{{configure}}设置连接。当您完成设置后，返回此页，开始使用这个工具。"
   label_burndown: 燃尽
   label_chart_options: 表单选项
-  label_close_completed_sprints: "Close completed Sprints"
-  label_closed_releases: "Closed releases"
+  label_close_completed_sprints: "关闭已完成的 Sprints"
+  label_closed_releases: "已关闭的发布"
   label_column_width: "Column width"
-  label_download_sprint: Download
+  label_download_sprint: 下载
   label_filter_tasks: "Filter by user"
   label_filter_tasks_my_tasks: "Filter by user - my tasks"
-  label_hide_completed_sprints: "Hide Completed Sprints"
+  label_hide_completed_sprints: "隐藏已完成的 Sprints"
   label_hours: 小时
-  label_hours_remaining: "remaining hours"
+  label_hours_remaining: "剩余时间（小时）"
   label_hours_required_burn_rate: "required burn rate (hours)"
-  label_ideal: ideal
-  label_impediments: Impediments
+  label_ideal: 理想情况
+  label_impediments: 障碍
   label_master_backlog: Backlog控制板
-  label_my_tasks: "My tasks"
-  label_new_sprint: "New Sprint"
-  label_new_story: "New Story"
-  label_no_data_to_show: "No data to show"
-  label_no_end: "no end"
-  label_no_start: "no start"
+  label_my_tasks: "我的任务"
+  label_new_sprint: "新的 Sprint"
+  label_new_story: "新的 故事"
+  label_no_data_to_show: "没有数据用来显示"
+  label_no_end: "没有结束日期"
+  label_no_start: "没有开始日期"
   label_not_prioritized: 未授予优先级
   label_points: 点
   label_points_accepted: "points accepted"
@@ -149,11 +149,11 @@ zh:
   label_points_to_resolve: "points not resolved"
   label_product_backlog: "产品 backlog"
   label_product_cards: "[[Product backlog cards]]"
-  label_release: Release
+  label_release: 发布
   label_release_end_date: "Release end date"
-  label_release_new: "New release"
+  label_release_new: "新的发布"
   label_release_planned_velocity_end_date: "Planned velocity estimated end date"
-  label_release_planning: "Release Planning"
+  label_release_planning: "发布计划"
   label_release_plural: Releases
   label_release_relationship_added: Added
   label_release_relationship_auto: Auto
@@ -161,10 +161,10 @@ zh:
   label_release_relationship_initial: Initial
   label_release_start_date: "Release start date"
   label_release_trend_end_date: "Trend estimated end date"
-  label_reset: Reset
+  label_reset: 重置
   label_scrum_statistics: "Scrum 统计"
   label_select_all: 全选
-  label_show_completed_sprints: "Show Completed Sprints"
+  label_show_completed_sprints: "显示已完成的 Sprints"
   label_sprint_backlog: "冲刺 backlog"
   label_sprint_cards: "[[Sprint cards]]"
   label_sprint_impediments: 冲刺障碍
@@ -172,7 +172,7 @@ zh:
   label_stories: 任务
   label_stories_tasks: 故事/任务
   label_task_board: 任务板
-  label_view_options: "View options"
+  label_view_options: "显示选项"
   label_webcal: "[[Webcal Feed]]"
   rb_auto_refresh: "Auto-refresh backlogs/taskboard (seconds)"
   rb_burndown_timezone: "Time zone for burndown day boundary"
@@ -185,8 +185,8 @@ zh:
   rb_label_copy_tasks_none: "[[None]]"
   rb_label_copy_tasks_open: "[[Open]]"
   rb_label_link_to_original: "[[Include link to original story]]"
-  rb_label_timelog_disable: Disable
-  rb_label_timelog_enable: Enable
+  rb_label_timelog_disable: 禁用
+  rb_label_timelog_enable: 启用
   rb_project_settings_update_error: "Error while updating settings"
   rb_project_settings_updated: "Settings updated"
   rb_release_burnup_enabled: "Enable release burnup chart (EXPERIMENTAL)"
@@ -198,10 +198,10 @@ zh:
   rb_taskboard_card_order: "Card print order"
   rb_timelog_from_taskboard: "Timelog from taskboard"
   remaining_story_points: "Remaining story points"
-  story_description: Description
-  story_estimation_hours: "Estimation (hours)"
+  story_description: 描述
+  story_estimation_hours: "估计（小时）"
   story_points: Points
-  story_remaining_hours: "Remaining (hours)"
+  story_remaining_hours: "余下时间（小时）"
   story_spent_time: "Spent Time"
   story_status: Status
   today_not_in_release_warning: "Warning: current date is not within release date range."
