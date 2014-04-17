@@ -3,7 +3,7 @@
     <th>Release</th>
     <th><%= l(:field_release_start_date) %></th>
     <th><%= l(:field_release_end_date) %></th>
-    <th>Estimated end date</th>
+    <th><%= l(:field_release_estimated_end_date) %></th>
   </tr>
   <% releases.each do |r|
   klass=r[:release].closed? ? 'closed':'open' %>

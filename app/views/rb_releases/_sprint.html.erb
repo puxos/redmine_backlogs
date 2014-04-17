@@ -27,8 +27,8 @@
       <th></th>
       <th>#</th>
       <th>Tracker</th>
-      <th>Subject</th>
-      <th>Story Points</th>
+      <th><%= l(:field_subject) %></th>
+      <th><%= l(:field_story_points) %></th>
     </tr>
     <% issues.each do |issue|
     klass=issue.closed? ? 'closed':'open' %>

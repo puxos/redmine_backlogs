@@ -99,6 +99,7 @@ en:
   field_release: Release
   field_release_ids: Releases
   field_release_end_date: "Release end date"
+  field_release_estimated_end_date: "Estimated end date"
   field_release_relationship: "Release relationship"
   field_release_start_date: "Release start date"
   field_remaining_hours: "Remaining (hours)"

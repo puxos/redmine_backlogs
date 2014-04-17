@@ -6,216 +6,216 @@ zh:
   backlogs_burndown_print_height: 燃尽图打印高度
   backlogs_burndown_print_width: 燃尽图打印宽度
   backlogs_burndown_settings: 燃尽图配置
-  backlogs_card_specification: 卡片类型
-  backlogs_default_story_tracker: "Default story tracker"
-  backlogs_general_settings: 通用配置
+  backlogs_card_specification: Story卡类型
+  backlogs_default_story_tracker: 默认Story跟踪
+  backlogs_general_settings: 一般设置
   backlogs_impediment: 障碍事项
-  backlogs_include_sat_and_sun: 燃尽图包含周六和周日
-  backlogs_new_story_position: 新故事位置
-  backlogs_new_story_position_bottom: "新故事底部 (需要重启)"
-  backlogs_new_story_position_top: "新故事顶部 (需要重启)"
+  backlogs_include_sat_and_sun: 包括周六和周日
+  backlogs_new_story_position: 新Story位置（需重启）
+  backlogs_new_story_position_bottom: 下方
+  backlogs_new_story_position_top: 上方
   backlogs_not_all_themes_are_supported: 无法支持全部主题
-  backlogs_pblpage_settings: 产品条目页配置
-  backlogs_points_burn_direction: 点数消耗
-  backlogs_product_backlog: 产品条目
+  backlogs_pblpage_settings: Backlog设置
+  backlogs_points_burn_direction: 点数方向
+  backlogs_product_backlog: 产品Backlog
   backlogs_scrum_stats_menu_application: 应用菜单
-  backlogs_scrum_stats_menu_none: None
-  backlogs_scrum_stats_menu_position: "Scrum 统计菜单"
-  backlogs_scrum_stats_menu_top: 顶部菜单
-  backlogs_set_start_and_duedates_from_sprint: 设置故事开始日期和冲刺完成日期
+  backlogs_scrum_stats_menu_none: 无
+  backlogs_scrum_stats_menu_position: Scrum统计菜单
+  backlogs_scrum_stats_menu_top: 顶部
+  backlogs_set_start_and_duedates_from_sprint: 套用Sprint的开始日期及完成日期
   backlogs_sharing_enabled: 启用共享
-  backlogs_sharing_new_sprint: 共享新冲刺
-  backlogs_sharing_new_sprint_explanation: "Although all possible options are available here, new sprints are shared only according to the users and projects permissions. System shared sprints can only be created by admins, hierarchy and tree shared sprints need permissions on the topmost project."
-  backlogs_sharing_support: "共享 Backlogs"
-  backlogs_show_in_scrum_stats: "Show project in Scrum statistics"
-  backlogs_show_priority: "Show task priority on taskboard"
-  backlogs_show_redmine_std_header: "Show redmine header in backlogs"
-  backlogs_show_stories_from_subprojects_in_backlog: "Show stories from subprojects in backlog"
-  backlogs_sprint_card_settings: "Card printing"
-  backlogs_sprint_sort_order: "Sort Sprints by start date"
+  backlogs_sharing_new_sprint: 共享新Sprint
+  backlogs_sharing_new_sprint_explanation: 虽然这里有各种分享的选项，但新的Sprints需要遵循用户及项目的权限。分享的Sprints只能由管理者创建，继承分享及项目树分享的Sprints需要根据顶级项目的权限。
+  backlogs_sharing_support: 共享Backlogs
+  backlogs_show_in_scrum_stats: 在Scrum统计中包括本项目
+  backlogs_show_priority: 在任务板中显示任务优先级
+  backlogs_show_redmine_std_header: 在Backlogs内显示Redmine Header
+  backlogs_show_stories_from_subprojects_in_backlog: Backlog中包含子项目的Stories
+  backlogs_sprint_card_settings: 打印卡片
+  backlogs_sprint_sort_order: 按起始日期排列Sprints
   backlogs_sprint_sort_order_asc: 顺序
   backlogs_sprint_sort_order_desc: 倒序
-  backlogs_sprints: 冲刺
-  backlogs_statistics_active: "Project show activity"
-  backlogs_statistics_active_failed: "Project shows no activity"
+  backlogs_sprints: Sprints
+  backlogs_statistics_active: 项目显示活动
+  backlogs_statistics_active_failed: 项目没有任何活动
   backlogs_statistics_committed_velocity_stable: "Committed velocity is stable across sprints"
   backlogs_statistics_committed_velocity_stable_failed: "Committed velocity is not stable across sprints"
-  backlogs_statistics_hours_per_point: "%{value} hours per point on average"
-  backlogs_statistics_product_backlog_filled: "Product backlog has stories"
-  backlogs_statistics_product_backlog_filled_failed: "Product backlog is empty"
-  backlogs_statistics_product_backlog_sized: "The stories at the top of the product backlog have sizes"
-  backlogs_statistics_product_backlog_sized_failed: "The top of the product backlog has unsized stories"
-  backlogs_statistics_sizing_consistent: "Story sizes are stable against their estimates"
-  backlogs_statistics_sizing_consistent_failed: "Story sizes vary against their estimates"
-  backlogs_statistics_sizing_stddev: "Standard deviation on hours vs. points: %{value} hours"
-  backlogs_statistics_spent_hours_per_point: "%{value} hours spent per accepted point on average"
-  backlogs_statistics_sprint_notes_available: "Recently closed sprints have retrospective/review notes"
-  backlogs_statistics_sprint_notes_available_failed: "Closed sprints without retrospective/review notes"
-  backlogs_statistics_sprints: "Measured over %{value} sprints"
-  backlogs_statistics_sprints_estimated: "Active and recently closed sprint have task estimates"
-  backlogs_statistics_sprints_estimated_failed: "Closed or active sprints with unestimated stories"
-  backlogs_statistics_sprints_sized: "Active and recently closed sprints were sized"
-  backlogs_statistics_sprints_sized_failed: "Project has stories on active or recently closed sprints that were not sized"
-  backlogs_statistics_velocity: "Velocity: %{value}"
-  backlogs_statistics_velocity_stddev: "Velocity standard deviation: %{value} points"
-  backlogs_statistics_yield: "Project has good average yield"
-  backlogs_statistics_yield_failed: "Project has low average yield"
-  backlogs_story: 故事
-  backlogs_story_close_status: "Status to close story automatically"
-  backlogs_story_follow_task_status_close: "Close when all Tasks are closed"
-  backlogs_story_follow_task_status_loose: "Loosely follow Tasks average done ratio"
-  backlogs_story_follow_task_status_nil: Disabled
-  backlogs_story_follows_task_loose_explanation: "Note: all issue statuses require a valid %done between 0 and 100."
-  backlogs_story_follows_task_status: "Story follows Task status"
-  backlogs_story_settings: "Story and Task settings"
-  backlogs_story_tracker: 故事跟踪
+  backlogs_statistics_hours_per_point: "平均 %{value} 小时/点"
+  backlogs_statistics_product_backlog_filled: Backlog已包含Stories
+  backlogs_statistics_product_backlog_filled_failed: Backlog为空
+  backlogs_statistics_product_backlog_sized: Backlog中的Stories均已评估
+  backlogs_statistics_product_backlog_sized_failed: Backlog尚有未评估的Stories
+  backlogs_statistics_sizing_consistent: Story的实际大小与估计大小相约
+  backlogs_statistics_sizing_consistent_failed: Story的实际大小与估计大小相差较大
+  backlogs_statistics_sizing_stddev: "小时VS点数的标准差： %{value} 小时"
+  backlogs_statistics_spent_hours_per_point: "平均用时 %{value} 小时/点"
+  backlogs_statistics_sprint_notes_available: "已关闭的Sprints均有回顾/检讨笔记"
+  backlogs_statistics_sprint_notes_available_failed: "已关闭的Sprints中尚有缺少回顾/检讨笔记"
+  backlogs_statistics_sprints: "根据 %{value} 个Sprints统计"
+  backlogs_statistics_sprints_estimated: 当前及最近关闭的Sprint内的Stories均已评估
+  backlogs_statistics_sprints_estimated_failed: 当前及已关闭的Sprints尚有未评估的Stories
+  backlogs_statistics_sprints_sized: 目前以及最近关闭的Sprints的大小均已评估
+  backlogs_statistics_sprints_sized_failed: 目前/最近关闭的Sprints的大小尚未评估
+  backlogs_statistics_velocity: "速度: %{value} 点"
+  backlogs_statistics_velocity_stddev: "速度的标准差： %{value} 点"
+  backlogs_statistics_yield: 项目具有良好的平均生产力
+  backlogs_statistics_yield_failed: 项目的平均生产力偏低
+  backlogs_story: Stories
+  backlogs_story_close_status: 自动关闭Story的任务状态
+  backlogs_story_follow_task_status_close: 当所有任务关闭时一并关闭
+  backlogs_story_follow_task_status_loose: 宽松（根据任务平均进度）
+  backlogs_story_follow_task_status_nil: 禁用
+  backlogs_story_follows_task_loose_explanation: "说明：所有任务都需要一个完成度 %（在0至100之间）"
+  backlogs_story_follows_task_status: Story同步任务状态
+  backlogs_story_settings: Story及任务设置
+  backlogs_story_tracker: Story跟踪
   backlogs_task: 任务
   backlogs_task_tracker: 任务跟踪
-  backlogs_wiki_template: 冲刺的wiki页面的模板
-  button_edit_wiki: 编辑wiki页面
-  comma_delimited_numbers: "Comma delimited numbers"
+  backlogs_wiki_template: Sprint的wiki页模板
+  button_edit_wiki: 编辑wiki页
+  comma_delimited_numbers: 可以使用多个值（用逗号,分开）
   current_open_story_points: "Current open story points:"
-  error_blank: "[[cannot be blank]]"
-  error_greater_than_start_date: "[[cannot be earlier than Start Date]]"
-  error_inclusion: "is not included in the list"
+  error_blank: 不可为空
+  error_greater_than_start_date: 不可早于开始日期
+  error_inclusion: 并不包括在列表中
   error_intro_plural: "遇到了这些错误:"
   error_intro_singular: "遇到了这个错误:"
-  error_must_have_comma_delimited_list: 多个任务(或故事)的ID间，必须使用逗号进行分隔
-  error_no_workflow_for_task_tracker: "You do not have access to the task tracker. If you believe this is an error, please have your administrator update the workflow."
+  error_must_have_comma_delimited_list: 任务（或Story）的id之间必须使用逗号,分开
+  error_no_workflow_for_task_tracker: 您没有访问【任务板】的权限，请联系项目主管。
   error_outro: 在再次提交之前，请先更正以上的错误。
-  error_release_end_after_start: "Release end date has to be after start date"
-  error_sprint_end_before_start: "Sprint cannot end before it starts"
-  error_taken: "is already in use"
+  error_release_end_after_start: 发行版本的结束日期不可早于开始
+  error_sprint_end_before_start: Sprint不可在开始前结束
+  error_taken: 已经被占用
   event_sprint_summary: "%{project}: %{summary}"
-  field_assigned_to: "分配给"
+  field_assigned_to: 分配给
   field_backlogs_issue_type: Backlog类型
   field_base: ""
-  field_blocks: "[[Blocks]]"
-  field_name: "[[Name]]"
-  field_planned_velocity: "Planned velocity"
+  field_blocks: 具体困难
+  field_name: 名称
+  field_planned_velocity: 计划速度
   field_position: 位置
   field_priority: 优先级
-  field_project_id: "项目Id"
+  field_project_id: 项目id
   field_release: 发布
-  field_release_end_date: "发布结束日期"
-  field_release_relationship: "Release relationship"
-  field_release_start_date: "发布开始日期"
-  field_remaining_hours: "余下时间（小时）"
-  field_story_points: 故事点数
-  field_subject: "[[Subject]]"
-  field_task_color: "任务颜色"
-  field_time_entry_comments: "Time Entry Comments"
-  field_time_entry_hours: "Time Entry Hours"
-  field_time_entry_spend_on: "Time Entry Spend on"
-  field_time_entry_user_id: "Time Entry User Id"
-  field_tracker_id: "[[Tracker ID]]"
+  field_release_end_date: 结束日期
+  field_release_estimated_end_date: 预计结束日期
+  field_release_relationship: 发行版本的关系
+  field_release_start_date: 开始日期
+  field_remaining_hours: 余下时间（小时）
+  field_story_points: Story点数
+  field_subject: 题目
+  field_task_color: 任务颜色
+  field_time_entry_comments: 实际用时的备注
+  field_time_entry_hours: 登记实际用时（小时）
+  field_time_entry_spend_on: 用时登记日期
+  field_time_entry_user_id: 用时登记人
+  field_tracker_id: 跟踪id
   field_velocity_based_estimate: 速度计量单位
-  label_all_tasks: "全部任务"
+  label_all_tasks: 全部任务
   label_back_to_project: 返回项目页
   label_backlogs: Backlogs
-  label_backlogs_unconfigured: "您尚未设置Bcaklogs，请到{{administration}} > {{plugins}},然后点击这个插件的{{configure}}设置连接。当您完成设置后，返回此页，开始使用这个工具。"
+  label_backlogs_unconfigured: 您尚未设置Backlogs，请到【管理】>【插件】,然后点击这个插件的【设置】设置连接。当您完成设置后，返回此页，开始使用这个工具。
   label_burndown: 燃尽
   label_chart_options: 表单选项
-  label_close_completed_sprints: "关闭已完成的 Sprints"
-  label_closed_releases: "已关闭的发布"
-  label_column_width: "Column width"
+  label_close_completed_sprints: 关闭已完成的Sprints
+  label_closed_releases: 已关闭的发布
+  label_column_width: 栏宽
   label_download_sprint: 下载
-  label_filter_tasks: "Filter by user"
-  label_filter_tasks_my_tasks: "Filter by user - my tasks"
-  label_hide_completed_sprints: "隐藏已完成的 Sprints"
+  label_filter_tasks: 按用户过滤
+  label_filter_tasks_my_tasks: 按照用户过滤 - 我的任务
+  label_hide_completed_sprints: 隐藏已完成的Sprints
   label_hours: 小时
-  label_hours_remaining: "剩余时间（小时）"
+  label_hours_remaining: 剩余时间（小时）
   label_hours_required_burn_rate: "required burn rate (hours)"
   label_ideal: 理想情况
   label_impediments: 障碍
   label_master_backlog: Backlog控制板
-  label_my_tasks: "我的任务"
-  label_new_sprint: "新的 Sprint"
-  label_new_story: "新的 故事"
-  label_no_data_to_show: "没有数据用来显示"
-  label_no_end: "没有结束日期"
-  label_no_start: "没有开始日期"
+  label_my_tasks: 我的任务
+  label_new_sprint: 创建新Sprint
+  label_new_story: 创建新Story
+  label_no_data_to_show: 没有数据可显示
+  label_no_end: 没有结束日期
+  label_no_start: 没有开始日期
   label_not_prioritized: 未授予优先级
   label_points: 点
-  label_points_accepted: "points accepted"
-  label_points_added: "points added"
-  label_points_backlog: "points backlog"
-  label_points_burn_down: 燃尽
-  label_points_burn_up: 燃起
-  label_points_committed: "points committed"
-  label_points_required_burn_rate: "required burn rate (points)"
-  label_points_resolved: "points resolved"
-  label_points_to_accept: "points not accepted"
-  label_points_to_resolve: "points not resolved"
-  label_product_backlog: "产品 backlog"
-  label_product_cards: "[[Product backlog cards]]"
-  label_release: 发布
-  label_release_end_date: "Release end date"
-  label_release_new: "新的发布"
-  label_release_planned_velocity_end_date: "Planned velocity estimated end date"
-  label_release_planning: "发布计划"
-  label_release_plural: Releases
-  label_release_relationship_added: Added
-  label_release_relationship_auto: Auto
-  label_release_relationship_continued: Continued
-  label_release_relationship_initial: Initial
-  label_release_start_date: "Release start date"
-  label_release_trend_end_date: "Trend estimated end date"
+  label_points_accepted: 已接受的点数
+  label_points_added: 添加的点数
+  label_points_backlog: Backlog点数
+  label_points_burn_down: 燃尽图
+  label_points_burn_up: 燃起图
+  label_points_committed: 提交的点数
+  label_points_required_burn_rate: 需要的燃烧率（点数）
+  label_points_resolved: 已解决的点数
+  label_points_to_accept: 需要接受的点数
+  label_points_to_resolve: 尚未解决的点数
+  label_product_backlog: Backlog
+  label_product_cards: Backlog卡
+  label_release: 发行版本
+  label_release_end_date: 发行版本完成日期
+  label_release_multiview: 多发行版本视图
+  label_release_multiview_new: 新的多发行版本视图  
+  label_release_new: 新的发行版本
+  label_release_planned_velocity_end_date: 按计划速度估计的完成日期
+  label_release_planning: 发行版本计划
+  label_release_plural: 发行版本
+  label_release_relationship_added: 已添加
+  label_release_relationship_auto: 自动
+  label_release_relationship_continued: 继续
+  label_release_relationship_initial: 初始
+  label_release_start_date: 发行版本开始日期
+  label_release_trend_end_date: 预计结束日期
   label_reset: 重置
-  label_scrum_statistics: "Scrum 统计"
+  label_scrum_statistics: Scrum统计
   label_select_all: 全选
-  label_show_completed_sprints: "显示已完成的 Sprints"
-  label_sprint_backlog: "冲刺 backlog"
-  label_sprint_cards: "[[Sprint cards]]"
-  label_sprint_impediments: 冲刺障碍
-  label_sprint_name: "冲刺 \"{{name}}\""
+  label_show_completed_sprints: 显示已完成的Sprints
+  label_sprint_backlog: Sprint Backlog
+  label_sprint_cards: Sprint卡
+  label_sprint_impediments: 障碍
+  label_sprint_name: "Sprint \"%{name}\""
   label_stories: 任务
-  label_stories_tasks: 故事/任务
+  label_stories_tasks: Story/任务
   label_task_board: 任务板
-  label_view_options: "显示选项"
-  label_webcal: "[[Webcal Feed]]"
-  rb_auto_refresh: "Auto-refresh backlogs/taskboard (seconds)"
-  rb_burndown_timezone: "Time zone for burndown day boundary"
+  label_view_options: 显示选项
+  label_webcal: iCal订阅
+  rb_auto_refresh: 自动刷新（秒）
+  rb_burndown_timezone: 燃尽图时区
   rb_burndown_timezone_explanation: |-
-      To support distributed teams, calculations for burndown graphs use a common concept of when a day begins.
-      Your user timezone is %{user_timezone}, the server timezone is %{server_timezone} and Burndowns use %{burndown_timezone} to calculate the graphs.
-      Note: Historic data is not affected when changing this option.
-  rb_label_copy_tasks: "[[Copy tasks]]"
-  rb_label_copy_tasks_all: "[[All]]"
-  rb_label_copy_tasks_none: "[[None]]"
-  rb_label_copy_tasks_open: "[[Open]]"
-  rb_label_link_to_original: "[[Include link to original story]]"
+                  为了支持跨地域的团队，燃尽图是在新的一天开始时计算的。
+                  您的时区是 %{user_timezone}, 服务器的时区是 %{server_timezone} 而燃尽图计算时区是 %{burndown_timezone} 。
+                  注：修改此选项不会影响已有数据
+  rb_label_copy_tasks: 复制任务
+  rb_label_copy_tasks_all: 全部
+  rb_label_copy_tasks_none: 无
+  rb_label_copy_tasks_open: 打开
+  rb_label_link_to_original: 包含到原Story的链接
   rb_label_timelog_disable: 禁用
   rb_label_timelog_enable: 启用
-  rb_project_settings_update_error: "Error while updating settings"
-  rb_project_settings_updated: "Settings updated"
-  rb_release_burnup_enabled: "Enable release burnup chart (EXPERIMENTAL)"
-  rb_show_burndown_in_sidebar: "Show burndown chart in issues sidebar"
-  rb_show_project_name: "Show project name in backlogs"
-  rb_task_cards_stories_then_tasks: "First all stories, then all tasks"
-  rb_task_cards_story_follows_tasks: "Tasks followed by their story"
-  rb_task_cards_tasks_follow_story: "Story followed by their tasks"
-  rb_taskboard_card_order: "Card print order"
-  rb_timelog_from_taskboard: "Timelog from taskboard"
-  remaining_story_points: "Remaining story points"
+  rb_project_settings_update_error: 更新设置时出错
+  rb_project_settings_updated: 设置已更新
+  rb_release_burnup_enabled: 启用发行版本燃起图（试验）
+  rb_show_burndown_in_sidebar: 在问题边栏中显示燃尽图
+  rb_show_project_name: 在Backlog中显示项目名称
+  rb_task_cards_stories_then_tasks: 先显示所有Stories，然后显示所有任务
+  rb_task_cards_story_follows_tasks: 任务在所属Story之后
+  rb_task_cards_tasks_follow_story: Story在相关任务之后
+  rb_taskboard_card_order: 卡片显示顺序
+  rb_timelog_from_taskboard: 通过任务板记录耗时
+  remaining_story_points: 剩余的Story点数
   story_description: 描述
-  story_estimation_hours: "估计（小时）"
-  story_points: Points
-  story_remaining_hours: "余下时间（小时）"
-  story_spent_time: "Spent Time"
-  story_status: Status
-  today_not_in_release_warning: "Warning: current date is not within release date range."
+  story_estimation_hours: 估计（小时）
+  story_points: Story点数
+  story_remaining_hours: 余下时间（小时）
+  story_spent_time: 已用时间
+  story_status: 状态
+  today_not_in_release_warning: 警告：今天并不在发行版本的期限内
   todo_issue_summary: "%{type}: %{summary}"
-  use_free_text_if_empty: "Use text field instead of dropdown if empty"
+  use_free_text_if_empty: 留空则以自行填写代替下拉菜单
   warning_reset_sprint: |-
-      YOU ARE ABOUT TO RESET THIS SPRINT!
+      警告！您要重置本Sprint！
 
-      Are you sure you want to do this? Resetting the sprint
-      will have the following effects on stories and tasks:
+      确定要重置吗？重置Sprint会导致对Stories和任务造成以下影响。
 
-      * Creation date will be set to the sprint start date
-      * ALL modifications to the stories and tasks except notes
-         will be DELETED
-      * The current value will become the initial value for all
-         story/task properties
-      * State will be set to the default issue state
+      * 创建日期会被置为Sprint的开始日期
+      * 所有对Stories和任务做的修改都会被删除（笔记除外）
+      * 当前的值会置为Story/任务的默认参数
+      * 状态会被置为默认状态（新建）
